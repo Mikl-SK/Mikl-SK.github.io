@@ -6,4 +6,4 @@ subtitle: spil
 
 jeg har tilføjet et event tower
 
-![Event tower kode](https://github.com/Mikl-SK/Pictures/blob/master/event%20tower%20kode.PNG)
+![Event tower kode](https://drive.google.com/file/d/1NPd_l89dBqeYSlzfWgVWF3lCitkCw7Rm/view?usp=sharing)
