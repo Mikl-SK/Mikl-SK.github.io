@@ -16,7 +16,7 @@ Koden til options menu ses her [create event](https://drive.google.com/file/d/1z
 
 [draw event](https://drive.google.com/file/d/1G18tppAZy7Q00shU8r2cb0Z_c7SEK225/view?usp=sharing)
 
-Koden til options menu [script] (https://drive.google.com/file/d/1PXVmFGhi8X3aMH5eOjt5sS4wFURogYUj/view?usp=sharing)
+Koden til options menu [script](https://drive.google.com/file/d/1PXVmFGhi8X3aMH5eOjt5sS4wFURogYUj/view?usp=sharing)
 
 I bunden af script koden ses det at vi forsøger at gemme de indstillinger som brugeren har valgt, dette virker ikke. Det ses også
 at resolution scriptet kaldes i bunden, den del virker.
