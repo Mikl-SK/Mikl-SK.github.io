@@ -12,3 +12,5 @@ til nogle af de andre maskiner, så er der ikke nogen maks mængde af storage du
 rundt, da recourse nodes løber tør.
 
 Her ses koden til storage [create event](https://drive.google.com/file/d/1rxfY1UM4s3_ZLXeIGhGXfhhoNJ2LJF1A/view?usp=sharing)
+
+Her ses storage [in-game](https://drive.google.com/file/d/1AiLoYug_1RaP-cE5EDLn_fHz78PAzu6i/view?usp=sharing)
