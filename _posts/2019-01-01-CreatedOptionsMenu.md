@@ -22,3 +22,5 @@ I bunden af script koden ses det at vi forsøger at gemme de indstillinger som b
 at resolution scriptet kaldes i bunden, den del virker.
 
 Her ses koden til resolution [script](https://drive.google.com/file/d/1_7-ZJNom24MH7BD75QqiAUGE8v0eUbK3/view?usp=sharing)
+
+Her ses options menu [in-game](https://drive.google.com/file/d/113RbMfMTvaPgGlpQk_veP6kMlbhazYG-/view?usp=sharing)
