@@ -32,3 +32,5 @@ knapperne uden for skærmen når det er de ikke bruges.
 I left released eventet har vi koden som afgører hvad der sker når spilleren trykker på knapperne.
 
 [left released](https://drive.google.com/file/d/1X15ukLMZzfCBr8o6AE4LXtvGx8rHKKDJ/view?usp=sharing)
+
+Her ses et billede af sales terminal [in-game](https://drive.google.com/file/d/1j7IKKiWlJivNLcTMjK7OjIGEoSw6hgTX/view?usp=sharing)
