@@ -12,6 +12,8 @@ hastigheder, fordi de har forskellige værdier plus at mængden af recourse node
 Valuables er den recourse som er mest værd, og er derfor også den recourse som har færrest nodes, og der er også den recourse som drillen
 spawner langsomst.
 
+Der bliver kun vist billeder for valuables, og det er fordi koden er den samme for alle recourser, dog med forskellige værdier.
+
 I create eventet, bliver der valgt en tilfældig retning som recoursen flyver i, når den bliver spawnet samt hvor langt den kan flyve væk.
 Det er også her vi vælger hvor hurtigt den kan blive spawnet.
 
